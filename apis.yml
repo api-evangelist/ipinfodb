@@ -39,7 +39,6 @@ apis:
   - name: IPInfoDB
     description: "Free Geolocation tools and APIs for country, region, city and time zone lookup by IP address"
     humanURL: https://www.ipinfodb.com/api
-    baseURL: https://www.ipinfodb.com/api
     tags:
       - Geocoding
     properties:
